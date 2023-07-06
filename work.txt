@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Merge without fast forward mode.
 Creating a new branch is quick and simple.
 Do something.
+Colleague 2 do something.
